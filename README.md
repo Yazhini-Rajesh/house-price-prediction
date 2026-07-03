@@ -19,4 +19,4 @@ Python, XGBoost, Scikit-learn, SHAP, Pandas, Matplotlib
 4. Open notebooks/house_price.ipynb
 
 ## Author
-Yazhini | B.Tech AIML
+Yazhini | B.E AIML
